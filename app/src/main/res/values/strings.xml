@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PointFragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="point_1">Point 1</string>
+    <string name="point_2">Point 2</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="calculate">Calculate</string>
+    <string name="midpoint">Mid Point</string>
+</resources>
